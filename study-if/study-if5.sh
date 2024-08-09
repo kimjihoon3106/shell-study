@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# 중첩 'if' 문
+
 number=30
 
 if [ $number -gt 10 ]; then
