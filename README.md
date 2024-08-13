@@ -8,3 +8,5 @@ repository about shell-study
 #### for -> <a href = "https://github.com/kimjihoon3106/shell-study/tree/main/study-for">here</a>
 
 #### array -> <a href = "https://github.com/kimjihoon3106/shell-study/tree/main/study-array">here</a>
+
+#### variable -> <a href = "https://github.com/kimjihoon3106/shell-study/tree/main/study-variable">here</a>
