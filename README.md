@@ -10,3 +10,5 @@ repository about shell-study
 #### array -> <a href = "https://github.com/kimjihoon3106/shell-study/tree/main/study-array">here</a>
 
 #### variable -> <a href = "https://github.com/kimjihoon3106/shell-study/tree/main/study-variable">here</a>
+
+#### enviromentvariable -> <a href = "https://github.com/kimjihoon3106/shell-study/tree/main/study-variable">here</a>
