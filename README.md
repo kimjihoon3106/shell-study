@@ -6,3 +6,5 @@ repository about shell-study
 #### while -> <a href = "https://github.com/kimjihoon3106/shell-study/tree/main/study-while">here</a>
 
 #### for -> <a href = "https://github.com/kimjihoon3106/shell-study/tree/main/study-for">here</a>
+
+#### array -> <a href = "https://github.com/kimjihoon3106/shell-study/tree/main/study-array">here</a>
